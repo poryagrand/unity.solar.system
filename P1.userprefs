@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\solarRout.cs">
+    <Files>
+      <File FileName="Assets\NewBehaviourScript1.cs" Line="1" Column="1" />
+      <File FileName="Assets\width.cs" Line="1" Column="1" />
+      <File FileName="Assets\selfRoutate.cs" Line="1" Column="1" />
+      <File FileName="Assets\solarRout.cs" Line="14" Column="17" />
+      <File FileName="Assets\cloadOFF.cs" Line="1" Column="1" />
+      <File FileName="Assets\move.cs" Line="1" Column="1" />
+      <File FileName="Assets\mouseLook.cs" Line="1" Column="1" />
+      <File FileName="Assets\mouse.cs" Line="1" Column="1" />
+      <File FileName="Assets\GotoPlanet.cs" Line="1" Column="1" />
+      <File FileName="Assets\globalData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Fade.cs" Line="1" Column="1" />
+      <File FileName="Assets\animToPlanet.cs" Line="1" Column="1" />
+      <File FileName="Assets\MouseLookAround.cs" Line="1" Column="1" />
+      <File FileName="Assets\start_Camera.cs" Line="1" Column="1" />
+      <File FileName="Assets\End_camera.cs" Line="1" Column="1" />
+      <File FileName="Assets\PlanetSpeedMinimize.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
