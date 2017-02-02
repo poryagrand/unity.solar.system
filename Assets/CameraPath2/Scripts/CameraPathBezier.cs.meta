@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 81d24053e223b40e4adb56db30c5052f
+labels:
+- animation
+- camera
+- animator
+- cam
+- path
+- spline
+- cutscene
+- fly
+- flyby
+- flyover
+- animating
+- visualization
+- visualisation
+- bezier
+- rails
+- cinematic
+- architectural
+- architecture
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
